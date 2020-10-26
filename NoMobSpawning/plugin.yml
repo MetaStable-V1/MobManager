@@ -1,0 +1,9 @@
+name: MobManager
+version: 1.0.0
+author: MetaStable
+main: fr.metastable.mobmanager.MobManager
+description: Disable or enable mob spawning
+commands:
+  mobmanager:
+    aliases: [mm]
+    description: Manager mob spawning

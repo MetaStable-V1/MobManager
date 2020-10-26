@@ -1,0 +1,15 @@
+prefix: "&r[&eMobManager&r]"
+
+worlds:
+#Add your worlds here with - "nameofworld"
+  - "world"
+  
+broadcast:
+  active: true
+  mobactive: "%prefix% &7The entity &b%entity% &7was now &aenable&r."
+  mobdisable: "%prefix% &7The entity &b%entity% &7was now &cdisable&r."
+item:
+  skulls:
+    description:
+      status: "&7Status&r: %status%"
+      switch: "&7Clic for switch status"
